@@ -30,7 +30,7 @@ Use the [Moment.js](https://momentjs.com/) library to work with date and time.
 
 The following image shows the web application's appearance and functionality:
 
-![Click the save button to add in data. Delete the data and click save again to make it blank.](./Assets/03-javascript-homework-demo.png)
+![Click the save button to add in data. Delete the data and click save again to make it blank.](./assets/workday-scheduler.jpg)
 
 This layout is designed for desktop viewing, but optimized for mobile. 
 
